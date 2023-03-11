@@ -1,0 +1,4 @@
+CS 234
+Stage 2
+
+Lauren Lofton worked on the basic class foundation for the UML diagram.
